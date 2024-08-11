@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harini0205
+- 👋 Hi, I’m @Harini
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning cloud computing
 - 📫 How to reach me mudunurusaiharini21@gmail.com
