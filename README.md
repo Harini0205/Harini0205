@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harini
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning cloud computing
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me mudunurusaiharini21@gmail.com
 
 <!---
